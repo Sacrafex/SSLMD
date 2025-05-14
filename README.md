@@ -48,10 +48,15 @@ Short Syntax Layout Markdown
 **Meaning**: Cites a source
 
 ## Functions
+
 **IF** - Checks a statement
+
 **WHILE** - Waits for event
+
 **REPEAT** - Loops Function
+
 **END** - End Section
+
 **ENDALL** - Closes Text
 
 ---
