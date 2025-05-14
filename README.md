@@ -9,38 +9,49 @@ Short Syntax Layout Markdown
 
 ### `> text` → Consequence / Result
 **Syntax**: `> He failed the test`  
-**Meaning**: As a result, he failed
+**Meaning**: What resulted due to a statement
 
 ### `@text` → Person / Attribution
 **Syntax**: `@KJ`  
-**Meaning**: Person: KJ
+**Meaning**: Sourcing a Person or giving attribution
 
 ### `#text` → Topic / Tag
-**Syntax**: `#Biology`  
-**Meaning**: Topic tag: Biology
+**Syntax**: `#Math`  
+**Meaning**: A tag showing relatedness
 
 ### `!text!` → Urgent
 **Syntax**: `!Due Tomorrow!`  
-**Meaning**: URGENT: Due Tomorrow
+**Meaning**: Important or Urgency
+
+### `&text&` → Grouping
+**Syntax**: `&if-true&John is cool`  
+**Meaning**: Groups Functions together
 
 ### `?text?` → Question / Confusion
 **Syntax**: `?Why this happened?`  
-**Meaning**: Questioning why
+**Meaning**: Misunderstanding or Text Unknown
 
 ### `=text=` → Definition
 **Syntax**: `=Osmosis=`  
-**Meaning**: Osmosis (definition context)
+**Meaning**: Shows definition in a text
 
 ### `/text/` → Example or Directory
 **Syntax**: `/rainforest/`  
-**Meaning**: Example: rainforest, or /wikipedia
+**Meaning**: Gives location or an example to something
 
 ### `%text%` → Statistic / Number
 **Syntax**: `%75%`  
-**Meaning**: 75 percent
+**Meaning**: Returns a given stat
 
 ### `[text]` → Source / Reference
-**Syntax**: `[Britannica]`  
-**Meaning**: Source: Britannica
+**Syntax**: `[GitHub]`  
+**Meaning**: Cites a source
+
+## Functions
+**IF** - Checks a statement
+**WHILE** - Waits for event
+**REPEAT** - Loops Function
+**END** - End Section
+**ENDALL** - Closes Text
 
 ---
