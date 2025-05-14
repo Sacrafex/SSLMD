@@ -1,6 +1,10 @@
 # SSLMD (A1)
 Short Syntax Layout Markdown
 
+## Rules / Allowances
+**1. No Spaces**
+**2. Terms can be surrounded by multiple perameters**
+
 **Meaning**: List items
 
 ### `> text` → Consequence / Result
