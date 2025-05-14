@@ -1,5 +1,6 @@
-# SSLMD (A1)
-Short Syntax Layout Markdown
+# SSLMD (A2)
+## Short Syntax Layout Markdown
+A Writing Language based on Logic
 
 ## Rules / Allowances
 **1. No Spaces**
