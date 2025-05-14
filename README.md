@@ -4,7 +4,10 @@ A Writing Language based on Logic
 
 ## Rules / Allowances
 **1. No Spaces**
+
 **2. Terms can be surrounded by multiple perameters**
+
+**3. Functions are followed intil closing "&"**
 
 **Meaning**: List items
 
