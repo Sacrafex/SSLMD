@@ -7,7 +7,7 @@ A Writing Language based on Logic
 
 **2. Terms can be surrounded by multiple perameters**
 
-**3. Functions are followed intil closing "&"**
+**3. Functions are followed until closing "&"**
 
 **Meaning**: List items
 
