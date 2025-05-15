@@ -104,7 +104,7 @@ Symbols & Short Syntax
 
 * * * * *
 
-🔁 Functions
+Functions
 ------------
 
 ### **IF**
