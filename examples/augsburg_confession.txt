@@ -1,0 +1,22 @@
+@AugsburgConfession #Lutheran
+
+=Article1= >!God! >Creator >Merciful >Just  
+=Article2= =OriginalSin= >CorruptsAll >NeedGrace  
+=Article3= =Christ= >SonOfGod >SavesSinners  
+=Article4= =Justification= >ByFaithAlone >NotByWorks  
+=Article5= =TheChurch= >CommunityOfFaith >PreachesGospel  
+=Article6= =TheSacraments= >Baptism >Lord'sSupper >MeansOfGrace  
+=Article7= =TheOfficeOfMinistry= >Preach >AdministerSacraments  
+=Article8= =FreeWill= >BoundBySin >CannotSaveSelf  
+=Article9= =GoodWorks= >FruitOfFaith >NotCauseOfSalvation  
+=Article10= =LawAndGospel= >LawShowsSin >GospelBringsGrace  
+=Article11= =Confession= >Repentance >ForgivenessGiven  
+=Article12= =Baptism= >CleansesSin >GivesFaith  
+=Article13= =Lord'sSupper= >TrueBodyAndBloodOfChrist  
+=Article14= =OrderInChurch= >MaintainPeace >AvoidDivisions  
+=Article15= =Marriage= >HolyUnion >BetweenManAndWoman  
+=Article16= =CivilGovernment= >GodOrdained >MaintainOrder  
+=Article17= =Christ'sReturn= >JudgeTheLivingAndDead  
+=Article18= =Resurrection= >BodiesRaised >EternalLife
+
+ENDALL
