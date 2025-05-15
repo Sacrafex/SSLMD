@@ -1,6 +1,6 @@
 # SSLMD (A2)
 ## Short Syntax Layout Markdown
-A Writing Language based on Logic
+A Writing Language based on Logic mainly used for compact and fast note taking or logic testing.
 
 ## Rules / Allowances
 **1. No Spaces**
